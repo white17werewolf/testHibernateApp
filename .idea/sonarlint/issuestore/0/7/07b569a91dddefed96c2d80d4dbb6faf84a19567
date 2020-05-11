@@ -1,0 +1,11 @@
+
+e
+java:S2095"EUse try-with-resources or close this "Session" in a "finally" clause.(Á×‚ìüÿÿÿÿ8»°õ  .
+`
+java:S2095"EUse try-with-resources or close this "Session" in a "finally" clause.(ôâÜÎ8»°õ  .
+`
+java:S2095"EUse try-with-resources or close this "Session" in a "finally" clause.(Œºƒò8»°õ  .
+x
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "users".(ôâÜÎ8»°õ  .
+B
+java:S1905"'Remove this unnecessary cast to "List".(ôâÜÎ8»°õ  .
